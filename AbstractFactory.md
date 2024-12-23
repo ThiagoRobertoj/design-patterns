@@ -313,3 +313,4 @@ if __name__ == "__main__":
 ```
 ## Referências
 https://refactoring.guru/pt-br/design-patterns/abstract-factory
+https://refactoring.guru/pt-br/design-patterns/abstract-factory/python/example
